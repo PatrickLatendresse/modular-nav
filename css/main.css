@@ -20,3 +20,27 @@ html {
 body {
   margin: 0;
 }
+
+header {
+  background-color: #e2e2e2;
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  background-color: #0074d9;
+}
